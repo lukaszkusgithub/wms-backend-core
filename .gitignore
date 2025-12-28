@@ -1,0 +1,19 @@
+# Python garbage
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# IDE settings (VS Code / PyCharm)
+.vscode/
+.idea/
+
+# Static Analysis cache
+.mypy_cache/
+
+# OS trash
+.DS_Store
